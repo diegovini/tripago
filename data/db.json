@@ -2,19 +2,27 @@
     "trips":[
         {
             "title": "2 Night stay in Venice",
-            "price": "$195"
+            "price": "$195",
+            "id": 1,
+            "loc": "europe"
         },
         {
             "title": "3 Night stay in Paris",
-            "price":"$230"
+            "price":"$230",
+            "id": 2,
+            "loc": "europe"
         },
         {
             "title": "4 Night stay in London",
-            "price":"$300"
+            "price":"$300",
+            "id": 3,
+            "loc": "europe"
         },
         {
-            "title": "5 Night stay in Rio",
-            "price":"$500"
+            "title": "5 Night stay in New York",
+            "price":"$500",
+            "id": 4,
+            "loc": "america"
         }
     ]
 }
